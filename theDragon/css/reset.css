@@ -3,6 +3,16 @@
    License: none (public domain)
 */
 
+/*Source  file  name: reset.css,
+Author's name: Eric A. and Kathryn S. Meyer ,
+Last  Modified  by: Eric A. and Kathryn S. Meyer ,
+Date  last  Modified: 20110126 ,
+Program  description：This is the first assignment of COMP397  –  Web  Game  Programming。 It is a simple selection game which aske
+    player find the treasure in this area. There are 8 outcomes in total and only one is positive outcome.
+File Description: This file used to reset page style for different browser.
+Revision  History: v2.0 */
+
+
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
