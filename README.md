@@ -1,2 +1,2 @@
-# theDragon
-template project  for COMP397 Assignment 1
+# Find the Treasure
+Impress.js web game base on theDragon template project
